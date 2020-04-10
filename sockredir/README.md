@@ -1,6 +1,6 @@
 # Socket data redirection using eBPF
 
-> This is BPF code that demonstrates how to bypass TCPIP for socket data without modifying the applications. This code is a companion to this blog post. 
+> This is BPF code that demonstrates how to bypass TCPIP for socket data without modifying the applications. This code is a companion to this [blog](https://cyral.com/blog/how-to-ebpf-accelerating-cloud-native) post. 
 
 The goal of this project is to show how to setup an eBPF network acceleration using socket data redirection when the communicating apps are on the same host.
 
